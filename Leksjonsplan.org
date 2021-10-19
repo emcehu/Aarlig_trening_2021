@@ -1,55 +1,31 @@
 #+TITLE: Leksjonsplan tropp 2 årlig trening 2021
-* Leksnonsplan
-  
- +-----+--------------+---------------+----------------------------------+
- | Dag |   Tidsrom    | Tema          |            Kommentar             |
- +-----+--------------+---------------+----------------------------------+
- |  man|12:00 - 17:10 |Trening        | - Tegn og signaler               |
- |     |(310 min)     |enkeltmann     | - Avstandsbedømming              |
- |     |              |og samband     | - Målangivelse (målbeskrivelse + |
- |     |              |               |stedsangivelse, jf 3.2 i Reglement|
- |     |              |               |for fotlag)                       |
- |     |              |               | - SSDS                           |
- |     |              |               | - Magasinbytte og ildhåndgrep    |
- |     |              |               | - Vernemaskedrill?               |
- |     +--------------+---------------+----------------------------------+
- |     |17:20 - 20:00 |Stridstrill    | - Stridsdrill 1: Hurtig          |
- |     |(160 min)     |1, 2 og 3a     |stillingsbesettelse (10 min)      |
- |     |              |               | - Stridsdrill 2: Ild og          |
- |     |              |               |bevelgelse (15 min)               |
- |     |              |               | - Stridsdrill 3a: Innbrudd i     |
- |     |              |               |stilling/grop (20 min)            |
- |     |              |               | - Trening i lagene (115 min)     |
- +-----+--------------+---------------+----------------------------------+
- |tir  |12:50 - 15:30 |Patruljeteknikk| - Hvilke patruljetekikker skal   |
- |     |(160 min)     |og kontakt     |trenes og hvem skal stå for denne?|
- |     |              |               | - Stridsdrill 5a: Stridskontakt, |
- |     |              |               |vinne ildoverlegenhet             |
- |     |              |               | - Stridsdrill 5b: Stridskontakt, |
- |     |              |               |begrenset ildåpning               |
- |     |              |               | - Stridsdrill 5c: Ildstøtte,     |
- |     |              |               |hurtig angrep                     |
- |     |              |               | - Stridsdrill 5d: Stridskontakt, |
- |     |              |               |kort hold                         |
- |     +--------------+---------------+----------------------------------+
- |     |15:30 - 20:00 |SD 5 og        | - Fortsette på stridsdrill 5a-d  |
- |     |(270 min)     |MOBO-innføring |over?                             |
- |     |              |               | - Hvem tar MOBO-innføringen?     |
- |     |              |               |                                  |
- |     |              |               |                                  |
- |     |              |               |                                  |
- |     |              |               |                                  |
- +-----+--------------+---------------+----------------------------------+
- |ons  |07:50 - 16:30 |MOBO SD 4b     | -                                |
- |     |(520 min)     |innbrudd i     |                                  |
- |     |              |bygning, SD 4a |                                  |
- |     |              |rydding av rom,|                                  |
- |     |              |SD 5a          |                                  |
- |     |              |kontaktdirll   |                                  |
- |     |              |(sanitet er    |                                  |
- |     |              |inkludert hele |                                  |
- |     |              |veien)         |                                  |
- +-----+--------------+---------------+----------------------------------+
+* Leksjonsplan
+  * Mandag
+    * 12:00 - 17:10 (310 min) Trening enkeltmann og samband
+      * Tegn og signaler
+      * Avstandsbedømming
+      * Målangivelse (målbeskrivelse + stedsangivelse), jf 3.2 i Reglement for fotlag.
+      * SSDS
+      * Magasinbytte og ildhåndgrep
+      * Vernemaskedrill?
+    * 17:20 - 20:00 (160 min) Stridsdrill 1, 2 og 3a
+      * Stridsdrill 1: Hurtig stillingsbesettelse (10 min)
+      * Stridsdrill 2: Ild og bevelgelse (15 min)
+      * Stridsdrill 3a: Innbrudd i stilling/grop (20 min)
+      * Trening i lagene (115 min)
+  * Tirsdag
+    * 12:50 - 15:30 (160 min) Patruljeteknikk og kontakt
+      * Hvilke patruljetekikker skal trenes og hvem skal stå for denne?
+      * Stridsdrill 5a: Stridskontakt, vinne ildoverlegenhet
+      * Stridsdrill 5b: Stridskontakt, begrenset ildåpning
+      * Stridsdrill 5c: Ildstøtte, hurtig angrep
+      * Stridsdrill 5d: Stridskontakt, kort hold
+    * 15:30 - 20:00 (270 min) SD 5 og MOBO-innføring
+      * Fortsette på stridsdrill 5a-d over?
+      * Hvem tar MOBO-innføringen?
+  * Onsdag
+    * 07:50 - 16:30 (520 min) MOBO SD 4b innbrudd ibygning, SD 4a rydding av rom, SD 5a kontaktdirll (sanitet er inkludert hele veien)
+      
 * Leksjoner
 ** Stridsdrill 1: Hurtig stillingsbesettelse
    Varighet: 10 minutter
