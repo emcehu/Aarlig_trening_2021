@@ -1,0 +1,162 @@
+#+TITLE: Leksjonsplan tropp 2 årlig trening 2021
+* Leksnonsplan
+  
+ +-----+--------------+---------------+----------------------------------+
+ | Dag |   Tidsrom    | Tema          |            Kommentar             |
+ +-----+--------------+---------------+----------------------------------+
+ |  man|12:00 - 17:10 |Trening        | - Tegn og signaler               |
+ |     |(310 min)     |enkeltmann     | - Avstandsbedømming              |
+ |     |              |og samband     | - Målangivelse (målbeskrivelse + |
+ |     |              |               |stedsangivelse, jf 3.2 i Reglement|
+ |     |              |               |for fotlag)                       |
+ |     |              |               | - SSDS                           |
+ |     |              |               | - Magasinbytte og ildhåndgrep    |
+ |     |              |               | - Vernemaskedrill?               |
+ |     +--------------+---------------+----------------------------------+
+ |     |17:20 - 20:00 |Stridstrill    | - Stridsdrill 1: Hurtig          |
+ |     |(160 min)     |1, 2 og 3a     |stillingsbesettelse (10 min)      |
+ |     |              |               | - Stridsdrill 2: Ild og          |
+ |     |              |               |bevelgelse (15 min)               |
+ |     |              |               | - Stridsdrill 3a: Innbrudd i     |
+ |     |              |               |stilling/grop (20 min)            |
+ |     |              |               | - Trening i lagene (115 min)     |
+ +-----+--------------+---------------+----------------------------------+
+ |tir  |12:50 - 15:30 |Patruljeteknikk| - Hvilke patruljetekikker skal   |
+ |     |(160 min)     |og kontakt     |trenes og hvem skal stå for denne?|
+ |     |              |               | - Stridsdrill 5a: Stridskontakt, |
+ |     |              |               |vinne ildoverlegenhet             |
+ |     |              |               | - Stridsdrill 5b: Stridskontakt, |
+ |     |              |               |begrenset ildåpning               |
+ |     |              |               | - Stridsdrill 5c: Ildstøtte,     |
+ |     |              |               |hurtig angrep                     |
+ |     |              |               | - Stridsdrill 5d: Stridskontakt, |
+ |     |              |               |kort hold                         |
+ |     +--------------+---------------+----------------------------------+
+ |     |15:30 - 20:00 |SD 5 og        | - Fortsette på stridsdrill 5a-d  |
+ |     |(270 min)     |MOBO-innføring |over?                             |
+ |     |              |               | - Hvem tar MOBO-innføringen?     |
+ |     |              |               |                                  |
+ |     |              |               |                                  |
+ |     |              |               |                                  |
+ |     |              |               |                                  |
+ +-----+--------------+---------------+----------------------------------+
+ |ons  |07:50 - 16:30 |MOBO SD 4b     | -                                |
+ |     |(520 min)     |innbrudd i     |                                  |
+ |     |              |bygning, SD 4a |                                  |
+ |     |              |rydding av rom,|                                  |
+ |     |              |SD 5a          |                                  |
+ |     |              |kontaktdirll   |                                  |
+ |     |              |(sanitet er    |                                  |
+ |     |              |inkludert hele |                                  |
+ |     |              |veien)         |                                  |
+ +-----+--------------+---------------+----------------------------------+
+* Leksjoner
+** Stridsdrill 1: Hurtig stillingsbesettelse
+   Varighet: 10 minutter
+
+*** Kort innledning
+   Benyttes i mange situasjoner, blant annet:
+    - Observasjonskontakt med fienden
+    - Angrepsoperasjoner
+    - Holdt under marsj
+    - Når målet er tatt
+    - Iverksettelse av hurtig bakhold
+
+
+*** Gjennomgang av drillen
+    Det benyttes legofigurer til å demonstrere drillen.
+     - Lagfører varsler: Hurtig stillingsbesettelse!
+     - Videre gir lagfører ordre om retning og formasjon (gjerne linje).
+     - Så tar lagfører ut stillingsområdets venstre og høyre begrensning ved å bruke "fra" og "til".
+     - Deretter gir lagfører ordre om ildområdet ved å angi venstre og høyre begrensning.
+       - Begrensningene vil gjerne overlappe med egne lag til høyre og/eller venstre for oss, og er ment for å sørge for at ingen områder står udekket.
+     - For å kunne kommunsere bedre i laget, tar lagfører ut grunnpunkter i ildområdet. Dette forenkler stedsangivelsen.
+     - Ildåpningsbestemmelsene angir i hvilken situasjon det skal åpnes ild
+       - På ordre
+       - Avstand
+       - Ildåpningslinje
+       - Fri
+       - Ildforbud
+       - Retten til selvforsvar
+     - Til slutt gir lagføreren ordre om stillingsutbedring
+    
+*** Viktige momenter
+    Følgende er viktig at soldatene:
+     - Er kjent med ildområde, ildåpningsbestemmelse, og grunnpunktene
+     - Kooridnerer ildområdet mellom seg, slik at hele ildområdet er dekket. Bruke midten av målet(?)
+     - At skuddfelt prioriteres før skjul og dekning.
+     - Utbedrer stillingsområdet i den grad situasjonen tillater det.
+** Stridsdrill 2: Ild og bevegelse
+   Varighet: 15 minutter
+   
+*** Kort innledning
+    Hensikten med stridsdrillene er å kunne
+     - Lokalisere
+     - Binde
+     - Manøvrere
+     - Innbrudd og rydding
+
+
+     Stridsdrill 2 forteller hvordan vi skal manøvrere inn på fienden for å kunne gjøre innbrudd. Ledetråden her at all forflytning skjer under dekning av ild.
+*** Gjennomgang av drillen
+    Drillen demonstreres ved hjelp av legofigurer.
+     - (Intensjon/innledning) Lagfører varsler:
+     - (Retning) Videre gir lagfører ordre om retning til fienden.
+     - (Formasjon) Deretter kommer ordren om organiseringen av laget. Eksempler:
+       - Ildstøttegjeng
+       - Ildstøttepar
+     - (Metode) Så beskriver lagfører hvordan forflytningen skal skje, f.eks.
+       - Lagvis
+       - Gjengvis
+       - Parvis
+       - Makkervis
+       - Enkeltvis
+     - (Innbruddssted) Lagføreren gir ordre om hvor innbruddet skal gjøres.
+     - (Ildledelse) Lagføreren gir en ildordre (EMU). Denne inneholder:
+       - Hvem ordren gjelder for (enhet).
+       - Hvor ilden skal treffe (målbeskrivelse og stedsangivelse).
+       - Våpen/ammunisjonstype, hvor lenge ilden skal vare og hvilken hastighet det skal skytes, ildsort fra maskingevær (punktild, spredningsild, sperreild)
+     - (Iverksettelse) Lagfører gir til slutt ordre om når ballet begynner.
+*** Viktige momenter
+     - Soldatene tilpasser forflytningsmetoden etter terreng og situasjon
+     - Ved bruk av fremssprang skal man være maks 3 sekunder oppe, og kaste seg ned bak stillingen for så å åle seg frem til anleggsstilling.
+     - Effektiv kommunikasjon
+       - Grunnpunkter
+       - Målangivelse
+     - Lagfører plasserer seg hensiktsmessig for å beholde situasjonsforståelse og kommunikasjonsevne.
+     - Formasjon tilpasses terreng
+     - Soldaten søker etter mål, og beskyter skjulte og sannsynlige mål også.
+     - Ammunisjonskontroll
+** Stridsdrill 3a: Innbrudd i stilling/grop
+   Varighet: 20 minutter
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 4a: Rydding av rom
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 4b: Innbrudd i bygning
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 5a: Stridskontakt, vinne ildoverlegenhet
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 5b: Stridskontakt, begrenset ildåpning
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 5c: Ildstøtte, hurig angrep
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Stridsdrill 5d: Stridskontakt, kort hold
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
+** Patruljeteknikk
+*** Kort innledning
+*** Gjennomgang av drillen
+*** Viktige momenter
