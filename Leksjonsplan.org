@@ -106,7 +106,36 @@
 ** Stridsdrill 3a: Innbrudd i stilling/grop
    Varighet: 20 minutter
 *** Kort innledning
+    Denne drillen beskriver metoden for å rydde individuelle ildstillinger og gjøre innbrudd i utbygde stillingssystemer. Avhengig av målets utseende benyttes enten
+     * kast og storm, eller
+     * kryp og kast
+
+
+    Begge metodene utføres av makkerpar.
 *** Gjennomgang av drillen
+    *Kast og storm*
+    
+    Fase 1: Initiering. Kast og storm initieres med TA GROP. Videre: KLARGJØR SJOKK/SPLINT. Den som er best posisjonert til å kaste kvitterer MOTTATT og klargjør granaten, varsler SJOKK/SPLINT og melder kaster granaten opp i gropen. Den andre sikrer ved å opprettholder ild mot målet så den første får kastet, og melder TREFF eller BOM. Når granaten har truffet, skifter sikrer fokus mot dypet av målet. Ved bom gjentas prosedyren.
+
+    Fase 2: Storm. Etter at granaten er gått av, stormes gropen. Den som kastet beordrer STORM, og fokuserer på selve gropen. Den som sikret følger etter og sikrer området rundt målet.
+
+    Fase 3: Sikre målet. Den som kastet granaten forsikrer seg om at fienden er død og markerer "grop tatt." Sikrer kaster seg i nærmeste stilling bortenfor gropen og sikrer mot dypet. Beskyter synlige og sannsynlige mål.
+
+    Fase 4: Sikre dypet og melde. Den som kastet søker nærmeste ildstilling etter at gropen er ryddet. Den som sikrer definerer midten av målet, og melder fra om innbrudd til lagfører. Begge beskyter synlige, sannsynlige og skjulte mål.
+
+    *Kryp og kast*
+    Denne metoden benyttes når:
+     - Fienden er i en stilling med overdekning.
+     - Laget er utsatt for en mulig trussel fra dypet.
+
+
+    Fase 1: Initiering. Kryp og kast initieres med TA STILLING. Videre: KLARGJØR SJOKK/SPLINT. Den ene sikrer ved å skyte enkeltskudd mot stillingen. Den andre kvitterer MOTTATT og varsler SJOKK/SPLINT. Granaten kastes i forkant av stillingen for å tvinge fienden i dekning, og dekke at den som kastet når han kryper frem.
+
+    Fase 2: Storm. Sikrer støtter kaster med ild så lenge det er sikkerhetsmessig forsvarlig. Etter det sikrer han dypet og gir observasjonsstøtte. Kaster kryper frem til stillingen og lemper en ny granat ned i stillingen.
+
+    Fase 3: Sikre målet. Den som kastet granaten forsikrer seg om at fienden er død og markerer "grop tatt." Sikrer kryper fremover og støtter med observasjon og ild mot dypet. Sikrer kan enten følge den som kastet inn i stillingen, eller omgå den og finne en ildstilling på en av sidene. Beskyter synlige og sannsynlige mål.
+
+    Fase 4: Sikre dypet og melde. Den som kastet søker nærmeste ildstilling etter at gropen er ryddet. Den som sikrer definerer midten av målet, og melder fra om innbrudd til lagfører. Begge beskyter synlige, sannsynlige og skjulte mål.
 *** Viktige momenter
 ** Stridsdrill 4a: Rydding av rom
 *** Kort innledning
