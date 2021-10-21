@@ -3,7 +3,7 @@
   * Mandag
     * 12:00 - 17:10 (310 min) Trening enkeltmann og samband
       * Tegn og signaler
-      * Avstandsbedømming
+      * Avstandsbedømmelse
       * Målangivelse (målbeskrivelse + stedsangivelse), jf 3.2 i Reglement for fotlag.
       * SSDS
       * Magasinbytte og ildhåndgrep
@@ -23,12 +23,15 @@
     * 15:30 - 20:00 (270 min) SD 5 og MOBO-innføring
       * Fortsette på stridsdrill 5a-d over?
       * Hvem tar MOBO-innføringen?
+      * Hvor foregår MOBO-demonstrasjon og trening?
+      * Hva må forberedes?
   * Onsdag
     * 07:50 - 16:30 (520 min) MOBO SD 4b innbrudd ibygning, SD 4a rydding av rom, SD 5a kontaktdirll (sanitet er inkludert hele veien)
       
 * Leksjoner
 ** Stridsdrill 1: Hurtig stillingsbesettelse
    Varighet: 10 minutter
+   Metode: Modellbord med legofigurer
 
 *** Kort innledning
    Benyttes i mange situasjoner, blant annet:
@@ -64,6 +67,7 @@
      - Utbedrer stillingsområdet i den grad situasjonen tillater det.
 ** Stridsdrill 2: Ild og bevegelse
    Varighet: 15 minutter
+   Metode: Modellbord med legofigurer
    
 *** Kort innledning
     Hensikten med stridsdrillene er å kunne
@@ -105,6 +109,8 @@
      - Ammunisjonskontroll
 ** Stridsdrill 3a: Innbrudd i stilling/grop
    Varighet: 20 minutter
+   Metode: Modellbord med legofigurer
+   
 *** Kort innledning
     Denne drillen beskriver metoden for å rydde individuelle ildstillinger og gjøre innbrudd i utbygde stillingssystemer. Avhengig av målets utseende benyttes enten
      * kast og storm, eller
@@ -124,6 +130,7 @@
     Fase 4: Sikre dypet og melde. Den som kastet søker nærmeste ildstilling etter at gropen er ryddet. Den som sikrer definerer midten av målet, og melder fra om innbrudd til lagfører. Begge beskyter synlige, sannsynlige og skjulte mål.
 
     *Kryp og kast*
+    
     Denne metoden benyttes når:
      - Fienden er i en stilling med overdekning.
      - Laget er utsatt for en mulig trussel fra dypet.
@@ -138,10 +145,14 @@
     Fase 4: Sikre dypet og melde. Den som kastet søker nærmeste ildstilling etter at gropen er ryddet. Den som sikrer definerer midten av målet, og melder fra om innbrudd til lagfører. Begge beskyter synlige, sannsynlige og skjulte mål.
 *** Viktige momenter
 ** Stridsdrill 4a: Rydding av rom
+   Varighet: 40 minutter
+   Metode: Demonstrasjon i rom avgrenset av sperrebånd e.l.
 *** Kort innledning
 *** Gjennomgang av drillen
 *** Viktige momenter
 ** Stridsdrill 4b: Innbrudd i bygning
+   Varighet: 40 minutter
+   Metode: Demonstrasjon i rom avgrenset av sperrebånd e.l.
 *** Kort innledning
 *** Gjennomgang av drillen
 *** Viktige momenter
