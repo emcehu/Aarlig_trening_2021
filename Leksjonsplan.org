@@ -42,20 +42,24 @@
    * /innbrudd/ og rydde fiendens stilling.
 
 
+
+   Dette er ikke en lagsoppgave seg selv, men utføres av laget som del av en tropp.
+
    Jeg siterer fra Reglement for fotlag av 14. desember 2010
+
    #+begin_quote
-   Stridsdrillene har til hensikt å fastlegge og stanardisere handlingsmønstre som utgangspunkt for trening på lagsnivå i Hæren. Dette sikrer en enhetlig treningsstandard og begrepsbruk på tvers av bataljonene.
+   "Stridsdrill" er navnet på kollektiv handling utført med begrenset tid til vurdering og tilpasning av hankdlemøte. De må være så godt innlært og øvet at de kan tilpasses ulike situasjoner, terreng og oppdrag[, og] utføres i alle kritiske situasjoner hvor laget er utsatt for frykt og stress.
    #+end_quote
 
    Jeg siterer videre
    #+begin_quote
-   "Stridsdrill" er navnet på kollektiv handling utført med begrenset tid til vurdering og tilpasning av hankdlemøte. De må være så godt innlært og øvet at de kan tilpasses ulike situasjoner, terreng og oppdrag[, og] utføres i alle kritiske situasjoner hvor laget er utsatt for frykt og stress.
+   Stridsdrillene har til hensikt å fastlegge og stanardisere handlingsmønstre som utgangspunkt for trening på lagsnivå i Hæren. Dette sikrer en enhetlig treningsstandard og begrepsbruk på tvers av bataljonene.
    #+end_quote
 
    Når alle i laget vet hva som skal skje og hva de må gjøre når lagføreren gir en ordre for å utføre en stridsdrill, kan laget effektivt bekjempe fienden og bidra til at sjefens intensjon oppnås.
 
 ** Fremgangsmåte
-   Jeg vil gjennomføre denne leksjonen ved å gjennomgå orderen som lagføreren gir for hver stridsdrill, og vise hva laget gjør ved å bruke Legofigurer på et modellbord. Etter at hver enkelt stridsdrill er gjennomgått vil lagene få tid til å repetere gjennomgangen ved selv å utføre handlingene.
+   Jeg vil gjennomføre denne leksjonen ved å gjennomgå varianter av orderen som lagføreren gir for hver stridsdrill, og vise hva laget gjør ved å bruke Legofigurer på et modellbord. Etter at hver enkelt stridsdrill er gjennomgått, vil lagene få tid til å repetere gjennomgangen ved selv å utføre handlingene. Jeg vil bruke 45 minutter på å gjennomgå stridsdrillene.
 
 ** Repetisjon av noen forutsetninger
    Disse drillene krever at hver enkelt soldat er kjent med
@@ -68,11 +72,11 @@
 
 
 ** Stridsdrill 1: Hurtig stillingsbesettelse
-   Varighet: 10 minutter
+   Varighet: 15 minutter
    Metode: Modellbord med Legofigurer
 
 *** Kort innledning
-   Benyttes i mange situasjoner, blant annet:
+   Stridsdrill 1 Hurtig stillingbesettelse er en grunnleggende stridsdrill, og benyttes i mange situasjoner, blant annet:
     - Observasjonskontakt med fienden
     - Angrepsoperasjoner
     - Holdt under marsj
@@ -81,28 +85,34 @@
 
 
 *** Gjennomgang av drillen
-    Det benyttes legofigurer til å demonstrere drillen.
-     - Lagfører varsler: Hurtig stillingsbesettelse!
-     - Videre gir lagfører ordre om retning og formasjon (gjerne linje).
-     - Så tar lagfører ut stillingsområdets venstre og høyre begrensning ved å bruke "fra" og "til".
-     - Deretter gir lagfører ordre om ildområdet ved å angi venstre og høyre begrensning.
+    Det benyttes legofigurer til å demonstrere drillen. \\
+    *Situasjon:* Laget går patrulje på skytterrekke, og kommer til et område der lagføreren ønsker at laget går i stilling fordi området foran er usikkert.
+     - Lagfører varsler, og gir retning og formasjon: /Hurtig stillingsbesettelse! Retning rett frem. Linje./
+     - Så tar lagfører ut stillingsområdets venstre og høyre begrensning ved å bruke "fra" og "til": /Stillingsområde fra kuleformet tre til kjegleformet tre./
+       - Lagfører forsikrer seg om at laget forstår stillingsområdets begrensning ved å få laget til å kvittere tilbake.
+     - Når laget har forstått hvor stillingsområdet er, berorder lagfører /I stilling!/ eller /Frem til stilling!/.
+       - Det første betyr at laget skal opp i stillngen, mens det andre betyr at laget skal frem til stillingen uten å eksponeres. Når laget er kommet frem til stilling beordrer lagfører /I stilling!/.
+     - Forutsatt at stillingsområdet er synig, eller at lagfører har hatt mulighet til å rekognisere stillingsområdet, gir lagfører deretter ordre om ildområdet ved å angi venstre og høyre begrensning: /Ildområde. Venstre begrensning: stor stein. Høyre begrensning: oransje tårn./
        - Begrensningene vil gjerne overlappe med egne lag til høyre og/eller venstre for oss, og er ment for å sørge for at ingen områder står udekket.
-     - For å kunne kommunsere bedre i laget, tar lagfører ut grunnpunkter i ildområdet. Dette forenkler stedsangivelsen.
-     - Ildåpningsbestemmelsene angir i hvilken situasjon det skal åpnes ild
+     - For å kunne kommunsere bedre i laget, tar lagfører ut grunnpunkter i ildområdet. Dette forenkler stedsangivelsen. /Grunnpunkt stor stein. Grunnpunkt murruin./ Laget kvitterer tilbake.
+     - Ildåpningsbestemmelsene angir i hvilken situasjon det skal åpnes ild. Eksempler
        - På ordre
        - Avstand
        - Ildåpningslinje
        - Fri
        - Ildforbud
        - Retten til selvforsvar
-     - Til slutt gir lagføreren ordre om stillingsutbedring
-    
+     - Til slutt gir lagføreren ordre om stillingsutbedring i henhold til skuddfelt, skjul, dekning, og støtte: /Rydd skuddfelt. Iverksett graving av groper./
+
+
+      
 *** Viktige momenter
-    Det er viktig at soldatene:
-     - Er kjent med ildområde, ildåpningsbestemmelse, og grunnpunktene
-     - Kooridnerer ildområdet mellom seg, slik at hele ildområdet er dekket. Bruke midten av målet(?)
-     - At skuddfelt prioriteres før skjul og dekning.
+    Det er viktig at laget:
+     - Kjenner ildområde, ildåpningsbestemmelse, og grunnpunktene
+     - Kooridnerer ildområdet mellom seg innbyrdes, slik at hele ildområdet er dekket. Bruke midten av målet.
+     - Prioriterer skuddfelt før skjul og dekning.
      - Utbedrer stillingsområdet i den grad situasjonen tillater det.
+     - Eksponerer seg samlet hvis sannsynligheten er stor for å gå i kontakt.
 
 
 ** Stridsdrill 2: Ild og bevegelse
@@ -110,27 +120,45 @@
    Metode: Modellbord med legofigurer
    
 *** Kort innledning
-    Stridsdrill 2 forteller hvordan vi skal manøvrere inn på fienden for å kunne gjøre innbrudd. Ledetråden her at all forflytning skjer under dekning av at deler av laget sikrer forflytningen til resten av laget.
+    Stridsdrill 2 beskriver hvordan laget skal manøvrere inn på fienden for å kunne gjøre innbrudd. Essensen her at all forflytning skjer under dekning, ved at deler av laget eller et annet lag sikrer forflytningen til (resten av) laget.
+
+    Det skilles på /samlet/ og /spredt/ manøver.
     
 *** Gjennomgang av drillen
     Drillen demonstreres ved hjelp av legofigurer.
-    - (Intensjon/innledning) Lagfører varsler: Ild og bevegelse
-    - (Retning) Videre gir lagfører ordre om retning til fienden.
-    - (Formasjon) Deretter kommer ordren om organiseringen av laget. Eksempler:
+
+    *Situasjon 0:* Laget har gjort en hurtig stillingsbesettelse, og må nå forflytte seg over et åpent og kupert område med fare for å bli beskutt av en fiende.
+    - (Intensjon/innledning) Lagfører varsler: /Ild og bevegelse!/
+    - (Retning) Videre gir lagfører ordre om retningen manøveren skal skje: /50 meter rett frem til mur./
+    - (Formasjon) Deretter kommer ordren om organiseringen av laget: /Linje!/ Eksempler:
       - Ildstøttegjeng
       - Ildstøttepar
-    - (Metode) Så beskriver lagfører hvordan forflytningen skal skje, f.eks.
+    - (Metode) Så beskriver lagfører hvordan forflytningen skal skje. Her demonstreres fem ulike måter:
+      - /Lagvis/
+      - /Gjengvis/
+      - /Parvis/
+      - /Makkervis/
+      - /Enkeltvis/
+    - (Iverksettelse) Lagfører gir til slutt ordre om når ballet begynner: /Gjeng 2 gjør seg klar til å sikre. Når gjeng 2 melder klar, gjør gjeng 1 seg klar og flytter når klar./
+    
+    *Situasjon 1:* Laget har gått i kontakt, og lokalisert fienden. Gjeng 2 (nestlagfører, minime-skytter og to geværmenn) har kommet i gode stillinger bak og til høyre for gjeng 1. Lagfører beslutter at gjeng 1 skal manøvrere mot fienden for å slå ut stillingen. Dette kalles spredt manøver fordi deler av laget ligger statisk og støtter fremrykningen av resten. 
+    - (Intensjon/innledning) Lagfører varsler: /Ild og bevegelse!/
+    - (Retning) Videre gir lagfører ordre om retning til fienden: /Fiendlig stilling i front, 50 meter./
+    - (Formasjon) Deretter kommer ordren om organiseringen av laget: /NLF, ildstøttegjeng der dere er gruppert nå. Gjeng 1, manøvergjeng./ Eksempler:
+      - Ildstøttegjeng
+      - Ildstøttepar
+    - (Metode) Så beskriver lagfører hvordan forflytningen skal skje: /Gjeng 2 støtter med ild. Gjeng 1 flankerer venstre og bryter inn i fiendens stilling. Gjeng 2 følger på, på ordre./
       - Lagvis
       - Gjengvis
       - Parvis
       - Makkervis
       - Enkeltvis
-    - (Innbruddssted) Lagføreren gir ordre om hvor innbruddet skal gjøres.
-    - (Ildledelse) Lagføreren gir en ildordre (EMU). Denne inneholder:
+    - (Innbruddssted) Lagføreren gir ordre om hvor innbruddet skal gjøres: /Innbruddssted, til venstre for stillingen./
+    - (Ildledelse) Lagføreren gir en ildordre (EMU): /Gjeng 2, vanlig ild til gjeng 1 er på stormavstand. Deretter hurtig ild i ett minutt før innbruddet iverksettes. Denne inneholder:
       - Hvem ordren gjelder for (enhet).
       - Hvor ilden skal treffe (målbeskrivelse og stedsangivelse).
       - Våpen/ammunisjonstype, hvor lenge ilden skal vare og hvilken hastighet det skal skytes, ildsort fra maskingevær (punktild, spredningsild, sperreild)
-    - (Iverksettelse) Lagfører gir til slutt ordre om når ballet begynner.
+    - (Iverksettelse) Lagfører gir til slutt ordre om når ballet begynner: /Iverksett når gjeng 2 åpner ild./
 
 
 *** Viktige momenter
@@ -155,12 +183,16 @@
     * kryp og kast
 
 
-    Begge metodene utføres av makkerpar.
+    Grunnstammen i denne drillen er makkerparet. Begge metodene utføres av makkerpar.
      
 *** Gjennomgang av drillen
-    *Kast og storm*
+    *Situasjon:* Manøvergjengen har kommet seg inn på stormavstand. Ildstøttegjengen har har forlagt skuddfeltet sitt for å ikke beskyte innbruddsgjengen. Det samme har lokal ildstøtte gjort.
     
-    Fase 1: Initiering. Kast og storm initieres med TA GROP. Videre: KLARGJØR SJOKK/SPLINT. Den som er best posisjonert til å kaste kvitterer MOTTATT og klargjør granaten, varsler SJOKK/SPLINT og melder kaster granaten opp i gropen. Den andre sikrer ved å opprettholder ild mot målet så den første får kastet, og melder TREFF eller BOM. Når granaten har truffet, skifter sikrer fokus mot dypet av målet. Ved bom gjentas prosedyren.
+    *Kast og storm*
+
+    Denne teknikken brukes når gropen ikke har overdekking.
+    
+    Fase 1: Initiering. Kast og storm initieres med TA GROP. Videre: KLARGJØR SJOKK/SPLINT. Den som er best posisjonert til å kaste kvitterer MOTTATT og klargjør granaten, varsler melder SJOKK/SPLINT, og kaster granaten opp i gropen. Den andre sikrer ved å opprettholde ild mot målet så den første får kastet, og melder TREFF eller BOM. Når granaten har truffet, skifter sikrer fokus mot dypet av målet. Ved bom gjentas prosedyren.
 
     Fase 2: Storm. Etter at granaten er gått av, stormes gropen. Den som kastet beordrer STORM, og fokuserer på selve gropen. Den som sikret følger etter og sikrer området rundt målet.
 
@@ -183,37 +215,14 @@
 
     Fase 4: Sikre dypet og melde. Den som kastet søker nærmeste ildstilling etter at gropen er ryddet. Den som sikrer definerer midten av målet, og melder fra om innbrudd til lagfører. Begge beskyter synlige, sannsynlige og skjulte mål.
 *** Viktige momenter
+    - Ammunisjonskontroll
+    - Egen ild må beherske dypet og flankene er en forutsetning for kast og storm.
+    - Teknikken må utføres hurtig, og det må tas høyde for fiendtlige håndgranater.
+    - Makkerparet kaster flere granater ved behov.
+    - Initiativet beholdes i makkerparet, og at de er innstilt på å slåss seg videre mot nye fiendtlige stillinger.
+    - 
 * Leksjon 2: Patruljetjeneste og kontakt
 * Leksjon 3: MOBO
-** Stridsdrill 4a: Rydding av rom
-   Varighet: 40 minutter
-   Metode: Demonstrasjon i rom avgrenset av sperrebånd e.l.
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Stridsdrill 4b: Innbrudd i bygning
-   Varighet: 40 minutter
-   Metode: Demonstrasjon i rom avgrenset av sperrebånd e.l.
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Stridsdrill 5a: Stridskontakt, vinne ildoverlegenhet
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Stridsdrill 5b: Stridskontakt, begrenset ildåpning
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Stridsdrill 5c: Ildstøtte, hurig angrep
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Stridsdrill 5d: Stridskontakt, kort hold
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
-** Patruljeteknikk
-*** Kort innledning
-*** Gjennomgang av drillen
-*** Viktige momenter
+  Se eget dokument.
+
+    
