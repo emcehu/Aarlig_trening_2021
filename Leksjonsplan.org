@@ -43,12 +43,12 @@
 
 
 
-   Dette er ikke en lagsoppgave seg selv, men utføres av laget som del av en tropp.
+   Dette er ikke en lagsoppgave i seg selv, men utføres av laget som del av en tropp.
 
    Jeg siterer fra Reglement for fotlag av 14. desember 2010
 
    #+begin_quote
-   "Stridsdrill" er navnet på kollektiv handling utført med begrenset tid til vurdering og tilpasning av hankdlemøte. De må være så godt innlært og øvet at de kan tilpasses ulike situasjoner, terreng og oppdrag[, og] utføres i alle kritiske situasjoner hvor laget er utsatt for frykt og stress.
+   "Stridsdrill" er navnet på kollektiv handling utført med begrenset tid til vurdering og tilpasning av hankdlemåte. De må være så godt innlært og øvet at de kan /tilpasses/ ulike situasjoner, terreng og oppdrag[, og] utføres i alle kritiske situasjoner hvor laget er utsatt for frykt og stress.
    #+end_quote
 
    Jeg siterer videre
@@ -56,10 +56,10 @@
    Stridsdrillene har til hensikt å fastlegge og stanardisere handlingsmønstre som utgangspunkt for trening på lagsnivå i Hæren. Dette sikrer en enhetlig treningsstandard og begrepsbruk på tvers av bataljonene.
    #+end_quote
 
-   Når alle i laget vet hva som skal skje og hva de må gjøre når lagføreren gir en ordre for å utføre en stridsdrill, kan laget effektivt bekjempe fienden og bidra til at sjefens intensjon oppnås.
+   Når alle i laget vet hva som skal skje og hva de må gjøre når lagføreren gir en ordre for å utføre en stridsdrill, kan laget effektivt bekjempe fienden, og bidra til at sjefens intensjon oppnås.
 
 ** Fremgangsmåte
-   Jeg vil gjennomføre denne leksjonen ved å gjennomgå varianter av orderen som lagføreren gir for hver stridsdrill, og vise hva laget gjør ved å bruke Legofigurer på et modellbord. Etter at hver enkelt stridsdrill er gjennomgått, vil lagene få tid til å repetere gjennomgangen ved selv å utføre handlingene. Jeg vil bruke 45 minutter på å gjennomgå stridsdrillene.
+   Jeg vil gjennomføre denne leksjonen ved å gjennomgå varianter av orderen som lagføreren gir for hver stridsdrill, og vise hva laget gjør ved å bruke Legofigurer på et modellbord. Etter at hver enkelt stridsdrill er gjennomgått, vil lagene få tid til å repetere gjennomgangen ved selv å utføre handlingene. Jeg vil bruke 50 minutter på gjennomgangen.
 
 ** Repetisjon av noen forutsetninger
    Disse drillene krever at hver enkelt soldat er kjent med
@@ -90,9 +90,9 @@
      - Lagfører varsler, og gir retning og formasjon: /Hurtig stillingsbesettelse! Retning rett frem. Linje./
      - Så tar lagfører ut stillingsområdets venstre og høyre begrensning ved å bruke "fra" og "til": /Stillingsområde fra kuleformet tre til kjegleformet tre./
        - Lagfører forsikrer seg om at laget forstår stillingsområdets begrensning ved å få laget til å kvittere tilbake.
-     - Når laget har forstått hvor stillingsområdet er, berorder lagfører /I stilling!/ eller /Frem til stilling!/.
+     - Når laget har forstått hvor stillingsområdet er, berorder lagfører /I stilling!/ eller /Frem til stilling!/
        - Det første betyr at laget skal opp i stillngen, mens det andre betyr at laget skal frem til stillingen uten å eksponeres. Når laget er kommet frem til stilling beordrer lagfører /I stilling!/.
-     - Forutsatt at stillingsområdet er synig, eller at lagfører har hatt mulighet til å rekognisere stillingsområdet, gir lagfører deretter ordre om ildområdet ved å angi venstre og høyre begrensning: /Ildområde. Venstre begrensning: stor stein. Høyre begrensning: oransje tårn./
+     - Forutsatt at området bak stillingsområdet er synlig før laget er i stilling, eller at lagfører har hatt mulighet til å rekognisere området, gir lagfører deretter ordre om ildområdet ved å angi venstre og høyre begrensning: /Ildområde. Venstre begrensning: stor stein. Høyre begrensning: oransje tårn./
        - Begrensningene vil gjerne overlappe med egne lag til høyre og/eller venstre for oss, og er ment for å sørge for at ingen områder står udekket.
      - For å kunne kommunsere bedre i laget, tar lagfører ut grunnpunkter i ildområdet. Dette forenkler stedsangivelsen. /Grunnpunkt stor stein. Grunnpunkt murruin./ Laget kvitterer tilbake.
      - Ildåpningsbestemmelsene angir i hvilken situasjon det skal åpnes ild. Eksempler
@@ -114,7 +114,7 @@
      - Utbedrer stillingsområdet i den grad situasjonen tillater det.
      - Eksponerer seg samlet hvis sannsynligheten er stor for å gå i kontakt.
 
-
+       
 ** Stridsdrill 2: Ild og bevegelse
    Varighet: 15 minutter
    Metode: Modellbord med legofigurer
@@ -154,10 +154,11 @@
       - Makkervis
       - Enkeltvis
     - (Innbruddssted) Lagføreren gir ordre om hvor innbruddet skal gjøres: /Innbruddssted, til venstre for stillingen./
-    - (Ildledelse) Lagføreren gir en ildordre (EMU): /Gjeng 2, vanlig ild til gjeng 1 er på stormavstand. Deretter hurtig ild i ett minutt før innbruddet iverksettes. Denne inneholder:
+    - (Ildledelse) Lagføreren gir en ildordre (EMU): Denne inneholder:
       - Hvem ordren gjelder for (enhet).
       - Hvor ilden skal treffe (målbeskrivelse og stedsangivelse).
       - Våpen/ammunisjonstype, hvor lenge ilden skal vare og hvilken hastighet det skal skytes, ildsort fra maskingevær (punktild, spredningsild, sperreild)
+      - Eks. /Gjeng 2, vanlig ild til gjeng 1 er på stormavstand. Deretter hurtig ild i ett minutt før innbruddet iverksettes./
     - (Iverksettelse) Lagfører gir til slutt ordre om når ballet begynner: /Iverksett når gjeng 2 åpner ild./
 
 
